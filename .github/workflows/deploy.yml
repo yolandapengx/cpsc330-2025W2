@@ -76,22 +76,22 @@ jobs:
         python -m ipykernel install --user --name conda-env-cpsc330-py
         # jupytext --set-kernel conda-env-cpsc330-24-py --to md:myst
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 18.x
-      - name: Install Jupyter Book (via myst)
-        run: npm install -g jupyter-book
-      - name: Build HTML Assets
-        run: jupyter-book build --html
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './_build/html'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+    - name: Install Jupyter Book (via myst)
+      run: npm install -g jupyter-book
+    - name: Build HTML Assets
+      run: jupyter-book build --html
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './_build/html'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
 
     # # Build the book
     # - name: Build the book
