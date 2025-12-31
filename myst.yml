@@ -1,16 +1,16 @@
 version: 1
 project:
-  title: CPSC 330 Applied Machine Learning 2025W1
+  title: CPSC 330 Applied Machine Learning 2025W2
   authors:
     - name: Varada Kolhatkar
     - name: Giulia Toti
     - name: Mehrdad Oveisi
     - name: Firas Moosvi
-    - name: any others!
+    - name: many others!
   exclude:
     - hw
     - exams
-  github: UBC-CS/cpsc330-2025W1
+  github: UBC-CS/cpsc330-2025W2
   exports:
     - format: pdf
       template: plain_latex_book
