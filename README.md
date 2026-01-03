@@ -5,7 +5,7 @@
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Jan-Apr 2026).
 
 ## Syllabus
-The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by Sep 19, 11:59 pm.
+The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by January 12, 11:59 pm.
 
 ## The teaching team  
 ### Instructors
