@@ -22,7 +22,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 |--------------|---------|---------------|----------|
 | CPSC 330 201 | Tue/Thu | 9:30 - 10:50  | MCML 360 |
 | CPSC 330 202 | Tue/Thu | 15:30 - 16:50 | DMP 310  |
-| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | IRC 4    |
+| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | TBA ~IRC 4~ |
 | CPSC 330 204 | Tue/Thu | 11:00 - 12:20 | DMP 310  |
 
 **Tutorials**:
@@ -54,7 +54,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 - [Giulia Toti](https://www.gtoti.com/), OH: Thursdays, 11:15 am - 12:30 pm @ ICCS 231
 - Firas Moosvi, OH: 
-- Mehrdad Oveisi, OH: Tuesdays and Thursdays, 18:20, as long as there are conceptual questions @ [IRC G41](https://learningspaces.ubc.ca/classrooms/irc-g41/)
+- Mehrdad Oveisi, OH: 
 
 ### Course coordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
