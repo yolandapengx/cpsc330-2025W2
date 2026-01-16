@@ -33,7 +33,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 | CPSC 330 T2B | Fri | 10:00 - 11:00 | MCML 158  |
 | CPSC 330 T2C | Fri | 12:00 - 13:00 | SWNG 405  |
 | CPSC 330 T2D | Fri | 13:00 - 14:00 | MCLD 3014 |
-| CPSC 330 T2E | Fri | 14:00 - 15:00 | MCLD 3008 |
+| CPSC 330 T2E | Fri | 15:00 - 16:00 | MCLD 3008 |
 | CPSC 330 T2F | Fri | 14:00 - 15:00 | CEME 1215 |
 | CPSC 330 T2G | Thu | 17:00 - 18:00 | CEME 1215 |
 | CPSC 330 T2H | Fri | 11:00 - 12:00 | FSC 1611  |
@@ -62,7 +62,6 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 ### TAs
 
 - Ayanfe Adekanye
-- Hadi Babalou
 - Tanav Singh Bajaj
 - Aryan Ballani
 - Matthew Buchholz
@@ -79,6 +78,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 - Sohbat Sandhu
 - Joseph Soo
 - Carlos Vasquez Rios
+- Luna Peck
 
 ## Registration
 
