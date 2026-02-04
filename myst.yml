@@ -113,7 +113,7 @@ project:
     #     #     # - file: lectures/101-103-Giulia-lectures/lec23
     #     #     #   title: Lecture 23
     - file: lectures/Firas/README.md
-      title: Section 202
+      title: Section 202 Slides
       children:
         - url: https://firasm.github.io/cpsc330-slides/slides-01.html
           title: Lecture 1
