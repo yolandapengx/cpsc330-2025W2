@@ -175,3 +175,5 @@ _build
 *.ipynb_checkpoints
 *cache*
 __pycache__
+catboost_info
+lectures/data/the-verdict.txt

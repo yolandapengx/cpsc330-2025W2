@@ -38,21 +38,21 @@ chapters:
   - file: lectures/Firas/README.md
     title: Section 202 Slides
     sections:
-      - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+      - file: lectures/Firas/class01.md
         title: Lecture 1
-      - url: https://firasm.github.io/cpsc330-slides/slides-02.html
+      - file: lectures/Firas/class02.md
         title: Lecture 2
-      - url: https://firasm.github.io/cpsc330-slides/slides-03.html
+      - file: lectures/Firas/class03.md
         title: Lecture 3
-      - url: https://firasm.github.io/cpsc330-slides/slides-04.html
+      - file: lectures/Firas/class04.md
         title: Lecture 4
-      - url: https://firasm.github.io/cpsc330-slides/slides-05.html
+      - file: lectures/Firas/class05.md
         title: Lecture 5
-      # - url: https://firasm.github.io/cpsc330-slides/slides-06.html
+      # - file: lectures/Firas/class01.md
       #   title: Lecture 6
-      # - url: https://firasm.github.io/cpsc330-slides/slides-07.html
+      # - file: lectures/Firas/class01.md
       #   title: Lecture 7
-      - url: https://firasm.github.io/cpsc330-slides/slides-08.html
+      - file: lectures/Firas/class08.md
         title: Lecture 8
-      - url: https://firasm.github.io/cpsc330-slides/slides-09.html
+      - file: lectures/Firas/class09.md
         title: Lecture 9
